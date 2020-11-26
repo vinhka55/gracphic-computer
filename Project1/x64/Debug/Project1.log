@@ -1,0 +1,9 @@
+﻿  Lab2.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(127,1): warning C4005: 'CALLBACK': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\glut.h(34): message : see previous definition of 'CALLBACK'
+  Mesh.cpp
+  supportClass.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(127,1): warning C4005: 'CALLBACK': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\glut.h(34): message : see previous definition of 'CALLBACK'
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'glut32.lib'
