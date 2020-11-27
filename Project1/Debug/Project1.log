@@ -1,5 +1,5 @@
 ﻿  Lab2.cpp
-G:\lab2\InititalCode\Lab2.cpp(1446,6): warning C4101: 'j': unreferenced local variable
-G:\lab2\InititalCode\Lab2.cpp(1536,6): warning C4101: 'l': unreferenced local variable
-G:\lab2\InititalCode\Lab2.cpp(1506,6): warning C4101: 'j': unreferenced local variable
+G:\lab2\InititalCode\Lab2.cpp(1516,6): warning C4101: 'j': unreferenced local variable
+G:\lab2\InititalCode\Lab2.cpp(1606,6): warning C4101: 'l': unreferenced local variable
+G:\lab2\InititalCode\Lab2.cpp(1576,6): warning C4101: 'j': unreferenced local variable
   Project1.vcxproj -> G:\lab2\lab2_đồ họa máy tính\Project1\Debug\Project1.exe
